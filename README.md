@@ -1,0 +1,7 @@
+ # axios 
+ # bcryptjs 
+ # jsonwebtoken
+ # nodemailer
+ # react-hot-toast
+ # mongoose
+ 
